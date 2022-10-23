@@ -13,7 +13,7 @@ class Crear_bbdd_tablas:
         
         
     
-    def crear_bbdd(self,nombre_bbdd,contraseña):
+    def crear_bbdd(self,nombre_bbdd):
 
         mydb = mysql.connector.connect(
         host='127.0.0.1',
