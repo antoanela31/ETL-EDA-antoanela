@@ -1,4 +1,4 @@
-# reevaluacion-modulo2-da-promo-b-nombre_antoanela
+# Modulo2-da-promo-b-nombre_antoanela
 En este repositario tenemos varios ficheros:
  con el EDA y la limpieza de datos
 - reevaluacion-mod2.impynb que contiene el EDA y la limpieza de datos
